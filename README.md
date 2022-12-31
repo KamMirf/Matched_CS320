@@ -2,7 +2,7 @@
 
 Final Group Project for CS320: Intro. to Software Engineering. Features: NLP (Natural Language Processing) analysis, Non-relational databases, vector/embedding similarity ranking algorithm
 
-##About description from webpage:
+## About description from webpage:
 
 "Welcome to Matched.
 
